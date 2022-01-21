@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MdShamsFiroz-Assign-Bikay/static/css/main.fc883a67.css",
+    "main.js": "/MdShamsFiroz-Assign-Bikay/static/js/main.8b67f235.js",
+    "index.html": "/MdShamsFiroz-Assign-Bikay/index.html",
+    "main.fc883a67.css.map": "/MdShamsFiroz-Assign-Bikay/static/css/main.fc883a67.css.map",
+    "main.8b67f235.js.map": "/MdShamsFiroz-Assign-Bikay/static/js/main.8b67f235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc883a67.css",
+    "static/js/main.8b67f235.js"
+  ]
+}
