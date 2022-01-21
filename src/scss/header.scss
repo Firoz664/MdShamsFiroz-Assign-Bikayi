@@ -1,0 +1,28 @@
+$grey: #BAB6B5;
+$grey-med: #646464;
+
+body {
+  background-color: rgb(9, 184, 233);
+  margin: 0;
+  padding: 0;
+  
+}
+
+.nobel-prizes-app-header {
+  display:flex;
+  font-style: italic;
+  font-weight: 600;
+  background-color: aquamarine;
+  width:'420px';
+  height:'420px';
+  justify-content: center;
+  color: brown;
+  margin-top: 12;  
+}
+.nobel-prizes-app-header:hover{
+    background-color: yellow;
+}
+
+@import "nobelPrize";
+@import "laureate";
+@import "form";
